@@ -1,0 +1,7 @@
+{
+    "objectscript.conn": {
+        "server": "vm1",
+        "ns": "HLHT",
+        "active": true
+    }
+}
