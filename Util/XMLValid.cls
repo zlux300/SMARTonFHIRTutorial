@@ -1,6 +1,7 @@
 Class HLHTPKG.Util.XMLValid Extends %RegisteredObject
 {
 
+/// dsfs
 ClassMethod Valid(fileName As %String = "c:\temp\1.xml", docName As %String = "PatientInfoRegister") As %String
 {
 	k ^HLHTTemp(docName)
